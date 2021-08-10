@@ -55,7 +55,7 @@ For other genomes, users can download the SNP data from [UCSC genome browser](ht
 
 The downloaded SNP data should be further processed to only remain “chrom” and “chromEnd” fields.
 
-The all arguments of the “EBHMM prepareinputs” command are as follows:
+The all arguments of the “ebhmm prepareinputs” command are as follows:
 
 Parameter | Description | Possible values
 ---- | ----- | ------
